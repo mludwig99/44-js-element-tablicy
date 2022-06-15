@@ -1,7 +1,7 @@
 let tab = [7, 5, 6, 9, 3];
 
-function returnNr1(a) {
-    return a[0];
+function returnNr1(array) {
+    return array[0];
 }
 
 
